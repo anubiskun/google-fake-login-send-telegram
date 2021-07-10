@@ -3,7 +3,7 @@
 [![website][web-l]][web-url]
 [![github][github-l]][github-url]
 [![telegram][tg-l]][tg-url]
-
+![Profile views](https://gpvc.arturio.dev/anubiskun)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
